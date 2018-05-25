@@ -2,7 +2,7 @@
 iOS sample application that teaches little kids to write digits.
 
 <p align="center">
-  <img src="Screenshots/app_screens.png" width="350"/>
+  <img src="Screenshots/app_screens.png" width="500"/>
 </p>
 
 ## Requirements
