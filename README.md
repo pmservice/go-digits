@@ -1,6 +1,9 @@
 # go-digits
 iOS sample application that teaches little kids to write digits.
 
+![app preview screens][Screenshots/app_screens.png]
+
+
 ## Requirements
 - Xcode 9
 - iOS 11
