@@ -13,7 +13,6 @@
 		1384003120A48F8000A08A67 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1384002620A48F8000A08A67 /* Info.plist */; };
 		1384003220A48F8000A08A67 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1384002720A48F8000A08A67 /* AppDelegate.swift */; };
 		1384003320A48F8000A08A67 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1384002820A48F8000A08A67 /* Assets.xcassets */; };
-		1384003420A48F8000A08A67 /* mnistCNN_backup.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 1384002920A48F8000A08A67 /* mnistCNN_backup.mlmodel */; };
 		1384003520A48F8000A08A67 /* mnistCNN.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 1384002A20A48F8000A08A67 /* mnistCNN.mlmodel */; };
 		1384003720A48F8000A08A67 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1384002C20A48F8000A08A67 /* LaunchScreen.storyboard */; };
 		1399DCFC20A48EC3005AC803 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1399DCFB20A48EC3005AC803 /* Default-568h@2x.png */; };
@@ -34,7 +33,6 @@
 		1384002620A48F8000A08A67 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1384002720A48F8000A08A67 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1384002820A48F8000A08A67 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		1384002920A48F8000A08A67 /* mnistCNN_backup.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = mnistCNN_backup.mlmodel; sourceTree = "<group>"; };
 		1384002A20A48F8000A08A67 /* mnistCNN.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = mnistCNN.mlmodel; sourceTree = "<group>"; };
 		1384002D20A48F8000A08A67 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1399DCFB20A48EC3005AC803 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
@@ -115,7 +113,6 @@
 				1384002620A48F8000A08A67 /* Info.plist */,
 				1384002C20A48F8000A08A67 /* LaunchScreen.storyboard */,
 				1384002320A48F8000A08A67 /* Main.storyboard */,
-				1384002920A48F8000A08A67 /* mnistCNN_backup.mlmodel */,
 				1384002A20A48F8000A08A67 /* mnistCNN.mlmodel */,
 				81A380A120A5C593005A56AE /* QuizQuestionViewController.swift */,
 				81A380A320A5C720005A56AE /* ResultsViewController.swift */,
@@ -205,7 +202,6 @@
 			files = (
 				1384003220A48F8000A08A67 /* AppDelegate.swift in Sources */,
 				81A380A220A5C593005A56AE /* QuizQuestionViewController.swift in Sources */,
-				1384003420A48F8000A08A67 /* mnistCNN_backup.mlmodel in Sources */,
 				819BC08620AEEB1E00CBA81E /* Utils.swift in Sources */,
 				1384003520A48F8000A08A67 /* mnistCNN.mlmodel in Sources */,
 				1384002E20A48F8000A08A67 /* DrawView.swift in Sources */,
