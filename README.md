@@ -1,7 +1,7 @@
 # go-digits
 iOS sample application that teaches little kids to write digits.
 
-![app preview screens][https://github.com/pmservice/go-digits/raw/master/Screenshots/app_screens.png]
+![app preview screens][Screenshots/app_screens.png?raw=true]
 
 
 ## Requirements
