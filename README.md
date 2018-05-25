@@ -10,5 +10,5 @@ iOS sample application that teaches little kids to write digits.
 - iOS 11
 
 ## Usage
-To use this app, open **go-digits.xcodeproj** in Xcode 9.
+To use this app, open **Go-Digits.xcodeproj** in Xcode 9.
 Next build and run it on a device or simulator with iOS 11.
