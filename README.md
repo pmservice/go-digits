@@ -1,8 +1,9 @@
 # go-digits
 iOS sample application that teaches little kids to write digits.
 
-![app preview screens][Screenshots/app_screens.png?raw=true]
-
+<p align="center">
+  <img src="Screenshots/app_screens.png" width="350"/>
+</p>
 
 ## Requirements
 - Xcode 9
